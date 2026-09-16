@@ -1,0 +1,16 @@
+# System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor Settings
+.idea/
+.vscode/
+
+# Live Server Files
+*.log
+.live-server/
+
+# Design Assets
+*.psd
+*.ai
