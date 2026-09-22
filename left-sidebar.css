@@ -1,0 +1,9 @@
+.left-sidebar {
+    display: flex;
+    background-color: #282727;
+    margin-top: 30px;
+    margin-left: none;
+    padding-left: none;
+    width: 300px;
+    height: auto;
+}
